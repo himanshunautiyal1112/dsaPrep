@@ -21,8 +21,19 @@ public:
         cuts.push_back(n);
         sort(cuts.begin(), cuts.end());
 
-        vector<vector<int>> dp(cuts.size(), vector<int>(cuts.size(), -1));
-
-        return findMinCost(0, cuts.size()-1, cuts, dp);
+        vector<vector<int>> dp(cuts.size(), vector<int>(cuts.size(), 0));
+        
+        for(int end=1; end<cuts.size(); end++) {
+            for(int start=end-2; start>=0; start--) {
+                int result = INT_MAX;
+                for(int k=start+1; k<end; k++) {
+                    int ans = cuts[end]-cuts[start] + dp[start][k] + dp[k][end];
+                    result = min(result, ans);
+                }
+                dp[start][end] = result;
+            }
+        }
+        return dp[0][cuts.size()-1];
+       // return findMinCost(0, cuts.size()-1, cuts, dp);
     }
 };
