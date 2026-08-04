@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
+| [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
