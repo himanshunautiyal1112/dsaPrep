@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 ## Binary Search
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0062-unique-paths) |
 | [0132-palindrome-partitioning-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
