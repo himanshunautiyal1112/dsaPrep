@@ -18,13 +18,7 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> dp(n, vector<int>(m, 1e9));
-
-        // for(int i=0; i<n; i++)
-        // dp[i][m-1] = grid[i][m-1];
-
-        // for(int i=0; i<m; i++)
-        // dp[n-1][i] = grid[n-1][i];
+        vector<vector<int>> dp(n, vector<int>(m, 0));
 
         dp[n-1][m-1] = grid[n-1][m-1];
 
