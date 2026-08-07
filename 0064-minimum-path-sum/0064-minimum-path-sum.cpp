@@ -18,8 +18,29 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> dp(n, vector<int>(m, -1));
+        vector<vector<int>> dp(n, vector<int>(m, 1e9));
 
-        return minimumPathSum(0, 0, n, m, grid, dp);
+        // for(int i=0; i<n; i++)
+        // dp[i][m-1] = grid[i][m-1];
+
+        // for(int i=0; i<m; i++)
+        // dp[n-1][i] = grid[n-1][i];
+
+        dp[n-1][m-1] = grid[n-1][m-1];
+
+        for(int row=n-1; row>=0; row--) {
+            for(int col=m-1; col>=0; col--) {
+                if(row == n-1 && col == m-1)
+                dp[row][col] = grid[row][col];
+                else if(row==n-1)
+                dp[row][col] = grid[row][col]+dp[row][col+1];
+                else if(col == m-1)
+                dp[row][col] = grid[row][col] + dp[row+1][col];
+                else 
+                dp[row][col] = grid[row][col] + min(dp[row][col+1], dp[row+1][col]);
+            }
+        }
+        return dp[0][0];
+        //return minimumPathSum(0, 0, n, m, grid, dp);
     }
 };
