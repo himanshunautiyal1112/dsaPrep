@@ -3,7 +3,7 @@ public:
     int maxCherry(int r1, int c1, int r2, int n, vector<vector<int>>& grid, vector<vector<vector<int>>>& dp) {
         int c2 = (r1+c1) - r2;
 
-        if(r1>=n || r2>=n || c1>=n || c2>=n || c2 < 0)
+        if(r1>=n || r2>=n || c1>=n || c2>=n)
         return INT_MIN;
 
         if(grid[r1][c1] == -1 || grid[r2][c2] == -1)
