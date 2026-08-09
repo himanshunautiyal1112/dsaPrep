@@ -41,7 +41,7 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(m+1, vector<int>(m+1, -1)));
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(m+1, vector<int>(m+1, -1)));
 
         int ans = maxCherryPic(0, 0, m-1, n, m, grid, dp);
         return max(0, ans);
