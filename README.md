@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
