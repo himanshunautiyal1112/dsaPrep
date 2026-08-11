@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
+| [1137-n-th-tribonacci-number](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1137-n-th-tribonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1137-n-th-tribonacci-number) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Simulation
 |  |
