@@ -21,12 +21,21 @@ public:
         int maxi = *max_element(nums.begin(), nums.end());
 
         vector<int> points(maxi+1,0);
-        vector<int> dp(maxi+1, -1);
+        vector<int> dp(maxi+1, 0);
 
         for(int num: nums) {
             points[num] += num;
         }
 
-        return maxiMumPoints(*max_element(nums.begin(), nums.end()), points, dp); 
+        dp[0] = points[0];
+        dp[1] = max(points[0], points[1]);
+
+        for(int i=2; i<=maxi; i++) {
+            dp[i] = max(points[i] + dp[i-2], dp[i-1]);
+        }
+
+        return dp[maxi];
+
+        //return maxiMumPoints(*max_element(nums.begin(), nums.end()), points, dp); 
     }
 };
