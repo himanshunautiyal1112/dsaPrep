@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0741-cherry-pickup) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
