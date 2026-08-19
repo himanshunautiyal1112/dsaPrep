@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0132-palindrome-partitioning-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 ## Sorting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
 ## Sqrt Decomposition
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
