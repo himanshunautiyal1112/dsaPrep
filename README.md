@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0746-min-cost-climbing-stairs) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
