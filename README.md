@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
