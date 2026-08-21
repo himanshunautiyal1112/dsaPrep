@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 ## Sorting
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
 ## Sqrt Decomposition
@@ -160,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
