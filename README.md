@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
 | ------- |
