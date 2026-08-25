@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Graph Theory
 |  |
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
