@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Graph Theory
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
 ## Stack
 |  |
