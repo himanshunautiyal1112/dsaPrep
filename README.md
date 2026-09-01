@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0064-minimum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0152-maximum-product-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0307-range-sum-query-mutable) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
