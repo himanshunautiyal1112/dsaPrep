@@ -11,32 +11,37 @@
  */
 class Solution {
 public:
-    int find(vector<int> inorder, int target, int st, int end) {
+    // int find(vector<int> inorder, int target, int st, int end) {
 
-        for(int i=st; i<=end; i++) {
-            if(inorder[i] == target)
-            return i;
-        }
+    //     for(int i=st; i<=end; i++) {
+    //         if(inorder[i] == target)
+    //         return i;
+    //     }
 
-        return -1;
-    }
-    TreeNode* tree(vector<int> inorder, vector<int> preorder, int inStart, int inEnd, int index) {
+    //     return -1;
+    // }
+    TreeNode* tree(vector<int> &inorder, vector<int> &preorder, int inStart, int inEnd, int index, unordered_map<int, int>& mp) {
         if(inStart > inEnd)
         return NULL;
 
         TreeNode* root = new TreeNode(preorder[index]);
 
-        int pos = find(inorder, preorder[index], inStart, inEnd);
+        int pos = mp[preorder[index]];
 
         //left tree build
-        root->left = tree(inorder, preorder, inStart, pos-1, index+1);
+        root->left = tree(inorder, preorder, inStart, pos-1, index+1, mp);
         // right tree build
-        root->right = tree(inorder, preorder, pos+1, inEnd, index+(pos-inStart)+1);
+        root->right = tree(inorder, preorder, pos+1, inEnd, index+(pos-inStart)+1, mp);
 
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int n = preorder.size();
-        return tree(inorder, preorder, 0, n-1, 0);
+        unordered_map<int, int> mp;
+
+        for(int i=0; i<n; i++) {
+            mp[inorder[i]] = i;
+        }
+        return tree(inorder, preorder, 0, n-1, 0, mp);
     }
 };
