@@ -11,30 +11,35 @@
  */
 class Solution {
 public:
-    int find(vector<int> inorder, int target, int st, int end) {
-        for(int i=st; i<=end; i++) 
-        if(inorder[i] == target)
-        return i;
+    // int find(vector<int> inorder, int target, int st, int end) {
+    //     for(int i=st; i<=end; i++) 
+    //     if(inorder[i] == target)
+    //     return i;
 
-        return -1;
-    }
-    TreeNode* tree(vector<int> inorder, vector<int> postorder, int start, int end, int index) {
+    //     return -1;
+    // }
+    TreeNode* tree(vector<int> &inorder, vector<int> &postorder, int start, int end, int index, unordered_map<int, int>& mp) {
         if(start > end)
         return NULL;
         
         TreeNode* root = new TreeNode(postorder[index]);
         
-        int pos = find(inorder, postorder[index], start, end);
+        int pos = mp[postorder[index]];
         
         // right
-        root->right = tree(inorder, postorder, pos+1, end, index-1);
+        root->right = tree(inorder, postorder, pos+1, end, index-1, mp);
         // left
-        root->left = tree(inorder, postorder, start, pos-1, index-(end-pos)-1);
+        root->left = tree(inorder, postorder, start, pos-1, index-(end-pos)-1, mp);
         
         return root;
     }
 
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        return tree(inorder, postorder, 0, postorder.size()-1, postorder.size()-1);
+        unordered_map<int, int> mp;
+
+        for(int i=0; i<inorder.size(); i++) {
+            mp[inorder[i]] = i;
+        }
+        return tree(inorder, postorder, 0, postorder.size()-1, postorder.size()-1, mp);
     }
 };
