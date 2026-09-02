@@ -20,26 +20,54 @@ public:
         pre(root->right, ans);
     }
     vector<int> preorderTraversal(TreeNode* root) {
-        stack<TreeNode*> st;
-        if(!root)
-        return {};
+        // stack<TreeNode*> st;
+        // if(!root)
+        // return {};
         
-        vector<int> ans;
-        st.push(root);
+        // vector<int> ans;
+        // st.push(root);
         
-        while(!st.empty()) {
-            TreeNode* temp = st.top();
-            st.pop();
+        // while(!st.empty()) {
+        //     TreeNode* temp = st.top();
+        //     st.pop();
             
-            ans.push_back(temp->val);
+        //     ans.push_back(temp->val);
             
-            if(temp->right)
-            st.push(temp->right);
+        //     if(temp->right)
+        //     st.push(temp->right);
             
-            if(temp->left)
-            st.push(temp->left);
+        //     if(temp->left)
+        //     st.push(temp->left);
+        // }
+        
+        // return ans;
+
+        // Morris traversal
+
+        vector<int>ans;
+
+        while(root) {
+            
+            if(!root->left) {
+                ans.push_back(root->val);
+                root = root->right;
+            } else {
+                TreeNode* temp = root->left;
+
+                while(temp->right && temp->right != root)
+                temp = temp->right;
+
+                if(!temp->right) {
+                    temp->right = root;
+                    ans.push_back(root->val);
+                    root = root->left;
+                } else {
+                    temp->right = NULL;
+                    root = root->right;
+                }
+            }
         }
-        
+
         return ans;
     }
 };
