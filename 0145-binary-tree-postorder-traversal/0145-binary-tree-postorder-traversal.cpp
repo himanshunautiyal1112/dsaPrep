@@ -21,9 +21,29 @@ public:
     }
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
+        //post(root, ans);
 
-        post(root, ans);
+        while(root) {
+            if(!root->right) {
+                ans.push_back(root->val);
+                root = root->left;
+            } else {
+                TreeNode* temp = root->right;
 
+                while(temp->left && temp->left != root)
+                temp = temp->left;
+
+                if(!temp->left) {
+                    ans.push_back(root->val);
+                    temp->left = root;
+                    root = root->right;
+                } else {
+                    temp->left = NULL;
+                    root = root->left;
+                }
+            }
+        }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
