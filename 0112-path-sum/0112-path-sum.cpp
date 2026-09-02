@@ -15,17 +15,15 @@ public:
         if(!root)
         return 0;
 
-        sum += root->val;
-
         if(!root->left && !root->right) {
-            return sum == target ? 1: 0;
+            return sum + root->val == target ? 1: 0;
         }
 
-       return pp(root->left, target, sum) ||
-        pp(root->right, target, sum);
+       return pp(root->left, target, sum+root->val) ||
+        pp(root->right, target, sum+root->val);
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
         int sum = 0;
-        return  pp(root, targetSum, sum);
+        return pp(root, targetSum, sum);
     }
 };
