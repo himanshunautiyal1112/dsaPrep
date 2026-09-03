@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -274,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
