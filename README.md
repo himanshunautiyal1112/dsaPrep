@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
