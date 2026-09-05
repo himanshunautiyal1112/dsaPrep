@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-    void find(TreeNode* root, string &s, vector<int>& arr, vector<string>& ans) {
+    void find(TreeNode* root, vector<int>& arr, vector<string>& ans) {
         if(!root)
         return;
 
         if(!root->left && !root->right) {
+            string s = "";
             arr.push_back(root->val);
-            reverse(arr.begin(), arr.end());
-            for(auto n: arr) {
-                char c = 'a' + n;
+            for(int i=arr.size()-1; i>=0; i--) {
+                char c = 'a' + arr[i];
                 s+=c;
             }
-            reverse(arr.begin(), arr.end());
             ans.push_back(s);
             arr.pop_back();
             s = "";
@@ -31,25 +30,18 @@ public:
 
         arr.push_back(root->val);
 
-        find(root->left, s, arr, ans);
-        find(root->right, s, arr, ans);
+        find(root->left, arr, ans);
+        find(root->right, arr, ans);
 
         arr.pop_back();
     }
-
-    bool cmp(const string& a, const string& b) {
-        return a < b;
-    }
     
     string smallestFromLeaf(TreeNode* root) {
-        string s;
         vector<int> arr;
         vector<string> ans;
-        find(root, s, arr, ans);
+        find(root, arr, ans);
 
-        sort(ans.begin(), ans.end(), [](const string& a, const string& b) {
-        return a < b;
-        });
+        sort(ans.begin(), ans.end());
         return ans[0];
     }
 };
