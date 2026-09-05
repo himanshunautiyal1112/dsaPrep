@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0647-palindromic-substrings](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0647-palindromic-substrings) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Lifting
 |  |
 | ------- |
