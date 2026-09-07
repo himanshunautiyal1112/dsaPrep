@@ -35,8 +35,6 @@ public:
     }
     bool isValidBST(TreeNode* root) {
         long long prev = LLONG_MIN;
-        if(!root->left && !root->right)
-        return true;
         return checkBST(root, prev);
     }
 };
