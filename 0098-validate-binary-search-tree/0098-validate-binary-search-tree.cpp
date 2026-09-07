@@ -11,23 +11,32 @@
  */
 class Solution {
 public:
-    void checkBST(TreeNode* root, vector<int> &ans) {
-        if(!root)
-        return;
+    // void checkBST(TreeNode* root, vector<int> &ans) {
+    //     if(!root)
+    //     return;
 
-        checkBST(root->left, ans);
-        ans.push_back(root->val);
-        checkBST(root->right, ans);
+    //     checkBST(root->left, ans);
+    //     ans.push_back(root->val);
+    //     checkBST(root->right, ans);
+    // }
+    bool checkBST(TreeNode* root, long long &prev) {
+        if(!root)
+        return 1;
+
+        if(!checkBST(root->left, prev))
+        return 0;
+
+        if(root->val <= prev)
+        return 0;
+
+        prev = root->val;
+
+        return checkBST(root->right, prev);
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> ans;
-        checkBST(root, ans);
-
-        for(int i=1; i<ans.size(); i++) {
-            if(ans[i-1] >= ans[i])
-            return 0;
-        }
-
-        return 1;
+        long long prev = LLONG_MIN;
+        if(!root->left && !root->right)
+        return true;
+        return checkBST(root, prev);
     }
 };
