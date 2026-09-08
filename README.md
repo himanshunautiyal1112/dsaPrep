@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0938-range-sum-of-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
