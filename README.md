@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0307-range-sum-query-mutable](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0113-path-sum-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0113-path-sum-ii) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## DP on Trees
 |  |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0450-delete-node-in-a-bst) |
