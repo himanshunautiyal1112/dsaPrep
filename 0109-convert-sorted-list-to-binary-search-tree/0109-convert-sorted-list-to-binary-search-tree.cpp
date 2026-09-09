@@ -26,7 +26,7 @@ public:
             return NULL;
         }
 
-        int mid = st + (end-st)/2;
+        int mid = st + (end-st+1)/2;
         TreeNode* root = new TreeNode(arr[mid]);
 
         root->left = BST(arr, st, mid-1);
