@@ -30,25 +30,19 @@ public:
     void recoverTree(TreeNode* root) {
         vector<int> arr;
         inorder(root, arr);
-        int first = -1, second = -1, third = -1, fourth = -1;
+        int first = -1, second = -1;
 
         for(int i=1; i<arr.size(); i++) {
             if(arr[i] < arr[i-1]) {
                 if(first == -1) {
                     first = i-1;
                     second = i;
-                } else {
-                    third = i-1;
-                    fourth = i;
                 }
+                second = i;
             }
         }
 
-        if(third==-1) {
-            swap(arr[first], arr[second]);
-        } else {
-            swap(arr[first], arr[fourth]);
-        }
+        swap(arr[first], arr[second]);
         int index = 0;
         consrtuct(root, arr, index);
     }
