@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1137-n-th-tribonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
