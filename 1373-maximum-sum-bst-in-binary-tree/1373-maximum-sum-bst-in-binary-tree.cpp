@@ -24,25 +24,25 @@
 };
 class Solution {
 public:
-    Box* find(TreeNode* root, int &maxSum) {
+    Box find(TreeNode* root, int &maxSum) {
         if(!root) {
-            return new Box();
+            return Box();
         }
 
-        Box* left = find(root->left, maxSum);
-        Box* right = find(root->right, maxSum);
+        Box left = find(root->left, maxSum);
+        Box right = find(root->right, maxSum);
 
-        if(left->BST && right->BST && left->maxValue < root->val && right->minValue > root->val) {
-            Box *head = new Box();
+        if(left.BST && right.BST && left.maxValue < root->val && right.minValue > root->val) {
+            Box head = Box();
 
-            head->sum = root->val + left->sum + right->sum;
-            head->minValue = min(root->val, left->minValue);
-            head->maxValue = max(root->val, right->maxValue);
+            head.sum = root->val + left.sum + right.sum;
+            head.minValue = min(root->val, left.minValue);
+            head.maxValue = max(root->val, right.maxValue);
 
-            maxSum = max(maxSum, head->sum);
+            maxSum = max(maxSum, head.sum);
             return head;
         } else {
-            left->BST = 0;
+            left.BST = 0;
             return left;
         }
     }
