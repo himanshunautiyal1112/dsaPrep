@@ -34,7 +34,36 @@ public:
         return checkBST(root->right, prev);
     }
     bool isValidBST(TreeNode* root) {
-        long long prev = LLONG_MIN;
-        return checkBST(root, prev);
+       long long prev = LLONG_MIN;
+        //return checkBST(root, prev);
+        bool valid = true;
+
+        while(root) {
+            if(!root->left) {
+                if(root->val <= prev)
+                valid = false;
+
+                prev = root->val;
+                root = root->right;
+            } else {
+                TreeNode* temp = root->left;
+                while(temp->right && temp->right!= root)
+                temp = temp->right;
+
+                if(!temp->right) {
+                    temp->right = root;
+                    root = root->left;
+                } else {
+                    temp->right = NULL;
+
+                    if(root->val <= prev)
+                    valid = false;
+
+                    prev = root->val;
+                    root = root->right;
+                }
+            }
+        }
+        return valid == false? 0: 1;
     }
 };
