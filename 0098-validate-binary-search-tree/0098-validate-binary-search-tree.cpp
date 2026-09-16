@@ -64,6 +64,6 @@ public:
                 }
             }
         }
-        return valid == false? 0: 1;
+        return valid;
     }
 };
