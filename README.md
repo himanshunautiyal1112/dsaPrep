@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1137-n-th-tribonacci-number) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2707-extra-characters-in-a-string](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/2707-extra-characters-in-a-string) |
 ## Sorting
