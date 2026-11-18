@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0222-count-complete-tree-nodes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
 | [0887-super-egg-drop](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0729-my-calendar-i) |
 | [0740-delete-and-earn](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0740-delete-and-earn) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1048-longest-string-chain](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Indexed Tree
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0741-cherry-pickup](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1463-cherry-pickup-ii) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/himanshunautiyal1112/dsaPrep/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
