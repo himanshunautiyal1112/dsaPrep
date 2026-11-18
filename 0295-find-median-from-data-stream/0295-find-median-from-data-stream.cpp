@@ -2,7 +2,7 @@ class MedianFinder {
 public:
     priority_queue<int> leftMaxHeap;
     priority_queue<int, vector<int>, greater<int>> rightMinHeap;
-    vector<int> arr;
+
     MedianFinder() {
         
     }
